@@ -1,8 +1,8 @@
-Starter Express App on Glitch
+Raindrop Prelude Visualizer
 ===========================
 
-This app is a very small scaffold to get you started using Express and Webpack.
+Press the space bar (or press play below) to begin the song, Prelude in D-flat Major Op. 28 No. 15 (Raindrop Prelude). 
 
-It's been copied by @starakaj for your enjoyment, and then React has been removed You can find the original at https://glitch.com/~starter-react.
+The recording is performed by Jeremiah Jones, and the file was freely available as of 4/1/2020 at the website Lisztonian. 
 
-This project relates to video 2 of 5 in the [React Starter Kit](https://glitch.com/react-starter-kit) video series.
+You can adjust the speed of the waves (which also determines their ultimate size) with the slider in the top left corner. The wave speed is informed by the loudness, and the stroke weight is defined as an inverse of the spectral centroid value, which is lower in this song when more bass notes are played.

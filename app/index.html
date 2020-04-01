@@ -9,11 +9,22 @@
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
-    
+      <div id ="intro">
+        <p>Press the space bar (or press play below) to begin the song, Prelude in D-flat Major Op. 28 No. 15 (Raindrop Prelude). The recording is performed by Jeremiah Jones, and the file was freely available as of 4/1/2020 at the website <a href="http://www.lisztonian.com/titles/Prelude+in+Dflat+Major+Op+28+No+15-47.html">Lisztonian</a>. You can adjust the speed of the waves (which also determines their ultimate size) with the slider in the top left corner. The wave speed is informed by the loudness, and the stroke weight is defined as an inverse of the spectral centroid value, which is lower in this song when more bass notes are played. 
+        </p>
+        <audio
+        controls
+        loop
+        crossorigin="anonymous"
+        id="raindrop"
+        src="sounds/raindrop-prelude.mp3"
+        >
+        </audio>
+      </div>
       <div id="main">
         <!-- the hello world app will be in here! -->
       </div>
-    
+      
       <!-- bundle all the scripts! thanks to webpack -->
       <script type="text/javascript" src="/bundle.js"></script>
   </body>

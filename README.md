@@ -1,7 +1,7 @@
 Raindrop Prelude Visualizer
 ===========================
 
-Press the space bar (or press play below) to begin the song, Prelude in D-flat Major Op. 28 No. 15 (Raindrop Prelude). 
+Press the space bar (or press play) to begin the song, Prelude in D-flat Major Op. 28 No. 15 (Raindrop Prelude). 
 
 The recording is performed by Jeremiah Jones, and the file was freely available as of 4/1/2020 at the website Lisztonian. 
 
